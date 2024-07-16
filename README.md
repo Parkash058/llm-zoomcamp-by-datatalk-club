@@ -22,15 +22,6 @@ Please find complete course details including labs and explaination and document
 
 ## Syllabus
 
-We encourage [Learning in Public](learning-in-public.md)
-
-### Pre-course workshops
-
-Implement a search engine
-
-* Video: https://www.youtube.com/watch?v=nMrGK5QgPVE
-* Code: https://github.com/alexeygrigorev/build-your-own-search-engine
-
 ### [Introduction to LLMs and RAG](01-intro/)
 
 * LLMs and RAG
